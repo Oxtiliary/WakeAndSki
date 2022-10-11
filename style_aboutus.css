@@ -1,0 +1,69 @@
+html,body{
+  height:100%;
+  width:100%;
+  display: block;
+  overflow-x:hidden;
+  margin:30px;
+  background: #c6f0c7;
+}
+nav{
+  background-color:#d6f4ff;
+  
+}
+
+.navbar-brand{
+  font-size:30px;
+  text-transform: uppercase;
+  font-weight: 900;
+  color:#2596be;
+}
+
+nav ul li a{
+  color:#2596be;
+  font-size:22px;
+  margin:auto10px;
+  
+}
+
+nav ul li a:hover{
+  color:#154c79;
+}
+.logo{width:50px;
+     }
+
+h1{margin:40px;   
+}
+
+h2{border-block-color: black;}
+
+
+
+
+.footer{
+  background: #2596be;
+  color:white;
+}
+  
+  .links ul {
+    list-style-type: none;
+  }
+  .links li a{
+      color: white;
+      transition: color .2s;
+    text-decoration:none;
+  }
+    .links li a:hover{
+        text-decoration:none;
+        color:#4180CB;
+        }
+  
+  .about-company i{
+    font-size: 25px;
+  }
+  .about-company  a{
+      color:white;
+      transition: color .2s;
+  }
+    .about-company  a:hover{
+      color:#4180CB
+    }
